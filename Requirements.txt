@@ -1,2 +1,2 @@
-Opencv 2
+opencv-python
 mediapipe
